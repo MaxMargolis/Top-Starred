@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "github-stars-logo_Color.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
